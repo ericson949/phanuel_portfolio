@@ -6,7 +6,7 @@
 
 </p>
 
-<img src="https://i.ibb.co/NS0S4XR/image.png"/>
+<img src="https://i.ibb.co/TRKd9sV/portfolio2.png"/>
 
 ## Running locally in development mode
 
