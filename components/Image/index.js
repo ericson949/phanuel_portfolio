@@ -15,7 +15,7 @@ const propTypes = {
 
 /* --------------------------- Image defaultProps --------------------------- */
 const defaultProps = {
-  alt: 'codewonders',
+  alt: 'phanuelportfolio',
   className: '',
 };
 

@@ -1,11 +1,11 @@
 {
-  "name": "codewonders",
+  "name": "phanuelportfolio",
   "version": "1.5.0",
   "private": false,
   "license": "MIT",
-  "repository": "git://github.com/adenekan41/codewonders.git",
-  "description": "Adenekan Wonderful's Website",
-  "author": "Adenekan Wonderful <hellocodewonders@gmail.com> (https://codewonders.dev)",
+  "repository": "git://github.com/ericson949/phanuel_portfolio.git",
+  "description": "Phanuel Wayne's Website",
+  "author": "Phanuel Wayne <ericson949@gmail.com> (https://phanuelportfolio.vercel.app/)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -16,7 +16,7 @@ const Home = () => {
   const [color] = useState(arrayRandomItem(['#37609c', '#34c759', '#5856d6']));
   const copyText = () => {
     const textField = document.createElement('textarea');
-    textField.innerText = 'hellocodewonders@gmail.com';
+    textField.innerText = 'ericson949@gmail.com';
     document.body.appendChild(textField);
     textField.select();
     document.execCommand('copy');

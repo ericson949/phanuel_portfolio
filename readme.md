@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/pW6D3g0/portfolio.png"/>
     
-<h1 align="center"><a href="https://codewonders.dev">Phanuel Wayne</a></h1>
+<h1 align="center"><a href="https://phanuelportfolio.vercel.app/">Phanuel Wayne</a></h1>
 <p align="center"> Frontend developer and Javascript engineer</p>
 
 </p>
