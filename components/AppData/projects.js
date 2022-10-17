@@ -31,6 +31,17 @@ const PROJECTS_DATA = [
     type: ['project'],
     technologies: ['JQUERY', 'Html 5', 'CSS 3', 'Django'],
   },
+  {
+    title: 'PIZZA APPS',
+    description: 'Flutter mobile apps',
+    github: 'https://github.com/ericson949/pizza_apps',
+    about:
+      'This is personal training mobile apps on flutter',
+    link: '',
+    imageUrl: 'https://i.ibb.co/9VQ2LBr/flutter.png',
+    type: ['project'],
+    technologies: ['FLUTTER', 'JAVASCRIPT'],
+  },
 ];
 
 export default PROJECTS_DATA;
